@@ -1,0 +1,47 @@
+  {
+  "project_info": {
+    "project_number": "93867913111",
+    "project_id": "lockerpro-ff53b",
+    "storage_bucket": "lockerpro-ff53b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93867913111:android:8c3f259fcc35c86bf75ed2",
+        "android_client_info": {
+          "package_name": "com.example.orion.lockerpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93867913111-b6jqstf7rdedoqokk5ok2lb1sjce7jcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orion.lockerpro",
+            "certificate_hash": "ae4151dd300718ca91d72a3d9d36b10fe40a5d82"
+          }
+        },
+        {
+          "client_id": "93867913111-tg91lr2j6nuocperp5tgvn2cliig8r4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD73Ea4YMAcj_fDYQi0HDMCVBR_0TyI7tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93867913111-tg91lr2j6nuocperp5tgvn2cliig8r4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
